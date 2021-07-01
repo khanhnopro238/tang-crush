@@ -1,18 +1,15 @@
 const CONFIG = {
     introTitle: 'Sơn  à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Chúng ta đã là bạn gần 1 năm rồi, tao vẫn còn có 1 câu hỏi muốn hỏi mày( giấu kín trong tym bao lâu nay ) `,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    title: 'ARE YOU GAYYYYY?! 😙',
+    desc: 'Phải chăng tao đã nghi ngờ từ cái nhìn đầu tiên ',
+    btnYes: 'ừ thì..... nhưng.... <33',
+    btnNo: 'tao đéo có gay ô kê ',
+    question:'Mày gay do tác động bên ngoài hay như nèo?! <3',
+    btnReply: 'Viết câu trả lời <3',
+    reply: 'Tao gay từ trong trứng rồi <33333333',
+    mess: 'Tao  biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay anh chơi em nhá.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100026519241786' //link mess của các bạn. VD: https://m.me/nam.nodemy
